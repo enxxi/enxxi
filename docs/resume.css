@@ -36,8 +36,8 @@ html {
     margin: 20px 0 20px;
   }
   
-  a:hover {
-    background-color: darkgrey;
+  header a:hover {
+    background-color: pink;
     letter-spacing:4px;
     transition: 0.3s ease-in;
   }
@@ -50,6 +50,7 @@ html {
   }
   
   .prof img:hover {
+    transition: 0.3s ease-in;
     transform: scale(1.1);
   }
   
@@ -60,7 +61,10 @@ html {
     font-weight: bold;
     color: pink;
   }
-  
+  h2:hover {
+    color:navy;
+    transition: 0.2s linear;
+  }
   ul {
     margin: 16px 0 16px 0;
   }
