@@ -32,8 +32,4 @@ Here are some ideas to get you started:
 ![pg](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F9FBE7&height=100&section=footer" />
