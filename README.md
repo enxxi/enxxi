@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=F0F4C3&height=150&section=header&text=enxxi's%20github%20🎧&fontSize=30&animation=twinkling&fontColor=424242&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=enxxi's%20github%20🎧&fontSize=30&animation=twinkling&fontColor=424242&fontAlignY=30)
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=25&pause=1000&color=48B690&center=true&vCenter=true&random=false&width=435&lines=enxxi's+github+%F0%9F%90%A3)](https://git.io/typing-svg)
 
