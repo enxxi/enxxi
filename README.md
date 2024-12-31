@@ -13,7 +13,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=*:.☆%20enxxi%20☃️%20github%20*★,°&fontSize=30&animation=twinkling&fontColor=424242&fontAlignY=30)
+
+<div align="center">
+  <!-- Header 이미지 -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=*:.☆%20enxxi%20☃️%20github%20*★,°&fontSize=30&animation=twinkling&fontColor=424242&fontAlignY=30" 
+    alt="header" 
+  />
+  
+  <!-- 메인 이미지 
+  <img 
+    src="https://github.com/user-attachments/assets/dfb000cb-e4d4-45d5-9a25-9847f18d9950" 
+    alt="image" 
+    width="300" 
+    height="200"
+    border-radius="10px"
+  />-->
+   <div align="center">
+    <img 
+      src="https://github.com/user-attachments/assets/88911a32-008b-459d-8743-5438ec82e890" 
+      alt="image1" 
+      width="150" 
+      style="margin: 0; border-radius: 10px;"
+    />
+    <img 
+      src="https://github.com/user-attachments/assets/1ffb1437-92a1-4316-b6b0-c8beab697f3e" 
+      alt="image2" 
+      width="150" 
+      style="margin: 0; border-radius: 10px;"
+    />
+    <img 
+      src="https://github.com/user-attachments/assets/5f7f4f6e-976e-4a2e-9e2d-dc51ad4cd5ac" 
+      alt="image3" 
+      width="150" 
+      style="margin: 0; border-radius: 10px;"
+    />
+  </div>
+
+</div>
+
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=25&pause=1000&color=48B690&center=true&vCenter=true&random=false&width=435&lines=enxxi's+github+%F0%9F%90%A3)](https://git.io/typing-svg)
 
