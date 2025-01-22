@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     height="200"
     border-radius="10px"
   />-->
-  <!--
+
    <div align="center">
     <img 
       src="https://github.com/user-attachments/assets/88911a32-008b-459d-8743-5438ec82e890" 
@@ -50,7 +50,6 @@ Here are some ideas to get you started:
       style="margin: 0; border-radius: 10px;"
     />
   </div>
-  -->
 
 </div>
 
