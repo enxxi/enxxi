@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <!-- Header 이미지 -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=*:.☆%20enxxi%20☃️%20github%20*★,°&fontSize=30&animation=twinkling&fontColor=424242&fontAlignY=30" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=*:.☆%20enxxi%20🌻🌼🌷%20github%20*★,°&fontSize=30&animation=twinkling&fontColor=424242&fontAlignY=30" 
     alt="header" 
   />
   
@@ -29,27 +29,6 @@ Here are some ideas to get you started:
     height="200"
     border-radius="10px"
   />-->
-
-   <div align="center">
-    <img 
-      src="https://github.com/user-attachments/assets/88911a32-008b-459d-8743-5438ec82e890" 
-      alt="image1" 
-      width="150" 
-      style="margin: 0; border-radius: 10px;"
-    />
-    <img 
-      src="https://github.com/user-attachments/assets/1ffb1437-92a1-4316-b6b0-c8beab697f3e" 
-      alt="image2" 
-      width="150" 
-      style="margin: 0; border-radius: 10px;"
-    />
-    <img 
-      src="https://github.com/user-attachments/assets/5f7f4f6e-976e-4a2e-9e2d-dc51ad4cd5ac" 
-      alt="image3" 
-      width="150" 
-      style="margin: 0; border-radius: 10px;"
-    />
-  </div>
 
 </div>
 
